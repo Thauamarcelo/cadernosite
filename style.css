@@ -27,7 +27,7 @@ html{
 }
 
 body{
-  background-image: url(/img/campo.png);
+  background-image: url(img/campo.png);
   background-repeat: no-repeat;
   background-position: bottom center;
   background-attachment: fixed;
@@ -127,13 +127,13 @@ main{
 
 }
 
-.img-inicio{
+.music{
   position: fixed;
   right: 6%;
   top: 160px;
 }
 
-.img-inicio img{
+.music iframe{
   width: 100%;
   height: 450px;
   display: block;
