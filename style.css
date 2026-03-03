@@ -9,7 +9,7 @@
     scroll-behavior: smooth;
     --color-letter: #F2E7DC;
     font-family: "Inconsolata", monospace;
-    font-weight: 700;
+    font-weight: 500;
     font-style: normal;
     color: inherit;
     font-size: 16px;
@@ -148,6 +148,15 @@ h1 {
   font-size: 1.6rem;
 }
 
+h3 {
+  padding: 7px;
+  display: inline-block;
+  font-size: 1.5rem;
+}
+
+p {
+  padding: 7px 7px 20px 7px;
+}
 .content {
   width: 50%;
 }
